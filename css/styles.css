@@ -34,7 +34,7 @@ html,body{
     background-size: contain;
     display: inline-block;
     margin: 0 auto;
-    
+    border-radius: 5%;
     width: var(--game-width);
     aspect-ratio: 152/150;
 }
